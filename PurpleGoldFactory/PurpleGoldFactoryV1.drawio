@@ -1,26 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" compressed="false" version="28.0.6">
   <diagram name="Page-1" id="WJDSjlGT4YneN3xKvHng">
-    <mxGraphModel dx="1385" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="554" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kYWWACgA7clEg2M-30tC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="1560" y="560" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kYWWACgA7clEg2M-30tC-2" value="Industrial Firebox" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="350" width="100" height="60" as="geometry" />
+          <mxGeometry x="1560" y="560" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYWWACgA7clEg2M-30tC-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="kYWWACgA7clEg2M-30tC-1" edge="1">
+        <mxCell id="kYWWACgA7clEg2M-30tC-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="kYWWACgA7clEg2M-30tC-2" edge="1" source="qmkdbEl72G7Gr9kVqARF-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="220" as="sourcePoint" />
-            <mxPoint x="290" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="300" />
-            </Array>
+            <mxPoint x="1619.83" y="430" as="sourcePoint" />
+            <mxPoint x="1619.87" y="560" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kYWWACgA7clEg2M-30tC-4" value="Liquid Sulfur (4.5/s)" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="kYWWACgA7clEg2M-30tC-3" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="140" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-8" value="Advanced Oil Seperator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-9" value="4.5 Liquid Sulfur&lt;div&gt;↓ (1s | 0MF/s&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;) ↓&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;9.0 Sulfur Dioxide&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-10" value="500 Steam +&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;40 Crude Oil&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;↓ (10s | 2.5MMF/s) ↓&lt;/span&gt;&lt;/div&gt;&lt;div&gt;12 Hydrogen Sulfide&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4 Coke Fuel&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;20 Light Oil&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 Residue&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-12" value="Oxidation Plant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-13" value="20 Hydrogen Sulfide&lt;div&gt;↓ (10s | 500kMF/s) ↓&lt;/div&gt;&lt;div&gt;30 Liquid Sulfur&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="380" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qmkdbEl72G7Gr9kVqARF-10" target="qmkdbEl72G7Gr9kVqARF-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="320" as="sourcePoint" />
+            <mxPoint x="1590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qmkdbEl72G7Gr9kVqARF-29" value="Hydrogen Sulfide (1.2/s&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1560" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
